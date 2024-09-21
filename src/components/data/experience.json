@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "role": "Front-End Development Engineer-Intern",
+    "organisation": "KhataPlus",
+    "startDate": "Jun, 2024",
+    "endDate": "Present",
+    "location": "Patna,India",
+    "experiences": [
+      "Worked on KhataPlus UI Design",
+      "Worked with the KhataPlus Team"
+    ],
+    "imageSrc": "company/Khata+.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Software Development Engineer",
+    "organisation": "SalesQueen",
+    "startDate": "April, 2024",
+    "endDate": "Jun, 2024",
+    "location": "Remote, India",
+    "experiences": [
+      "Worked on UI Design With Team"
+    ],
+    "imageSrc": "company/salesqueen.png"
+  }
+]

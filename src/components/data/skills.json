@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title":"Blazor",
+    "imageSrc":"skills/blazor.png"
+  },
+  {
+    "title": "Basic Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "C Sharp",
+    "imageSrc": "skills/C-sharp.png"
+  }
+]

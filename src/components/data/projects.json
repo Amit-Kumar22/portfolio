@@ -1,0 +1,58 @@
+[
+  {
+    "key": 1,
+    "title": "KhataPlus DashBoard",
+    "imageSrc": "https://media.licdn.com/dms/image/D4D03AQF7jPrI-UqqfQ/profile-displayphoto-shrink_200_200/0/1711114851913?e=2147483647&v=beta&t=FFeBlDGcpSZUcWhTak8WRSolaW7LZVD8X8fxO77-fWA",
+    "description": "This is a project made with complete Html, Css, Javascript and PHP .",
+    "demo": "https://amit-kumar22.github.io/Khata-Login/",
+    "source": "https://github.com/Amit-Kumar22/Khata-Login.git"
+  },
+  {
+    "key": 2,
+    "title": "Crypto Tracker",
+    "imageSrc": "https://cdn.vectorstock.com/i/1000v/03/45/crypto-mining-bull-trading-symbol-vector-37530345.avif",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://crypto-tracker-snowy-beta.vercel.app/",
+    "source": "https://github.com/Amit-Kumar22/Crypto-tracker.git"
+  },
+  {
+    "key": 3,
+    "title": "Youtube Clone",
+    "imageSrc": "https://img.freepik.com/free-psd/3d-circle-with-youtube-logo-isolated-transparent-background_125540-3736.jpg",
+    "description": "This is a project made with complete React js. Only for Practice",
+    "demo": "https://react-youtube-ekxy.vercel.app/",
+    "source": "https://github.com/Amit-Kumar22/React-youtube.git"
+  },
+  {
+    "key": 4,
+    "title": "Air Bnb Clone",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujOkdW7NbL4MGxKaqcyXe-N5_T_TaXBNc5w&s",
+    "description": "This is a project made with complete Html Css and Javascript. Only for Practice",
+    "demo": "https://amit-kumar22.github.io/airbnb3/",
+    "source": "https://github.com/Amit-Kumar22/airbnb3.git"
+  },
+  {
+    "key": 5,
+    "title": "Tic Tac Toe",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHG-MWTOtLxhH2vWIHZw7_36ugES8svpDUAw&s",
+    "description": "This is a project made with complete Html Css and Javascript.",
+    "demo": "https://amit-kumar22.github.io/tic-tac-toe/",
+    "source": "https://github.com/Amit-Kumar22/tic-tac-toe.git"
+  },
+  {
+    "key": 6,
+    "title": "Student List",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgSGBAUPNsgu4boDT8uTE6r_LCtHKir2TOA&s",
+    "description": "This is a project made with complete Html Css and Javascript.",
+    "demo": "https://amit-kumar22.github.io/student-list/",
+    "source": "https://github.com/Amit-Kumar22/student-list.git"
+  },
+  {
+    "key": 7,
+    "title": "Moving car",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_0UKv_gOd5iz9FY2Jlpp2As-PYsfCexFsA&s",
+    "description": "This is a project made with complete Html Css.",
+    "demo": "https://amit-kumar22.github.io/first-project/",
+    "source": "https://github.com/Amit-Kumar22/first-project.git"
+  }
+]
